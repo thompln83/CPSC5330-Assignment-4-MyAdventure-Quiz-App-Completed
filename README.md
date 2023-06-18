@@ -27,9 +27,7 @@ Unlike the real-life pioneers of 1848, you can try again and again until you suc
 
 # Screenshot of Assignment 4:
 
-<img src="https://github.com/thompln83/.png">
-
-
+<img src="https://github.com/thompln83/CPSC5330-Assignment-4-MyAdventure-Quiz-App-Completed/blob/eba6427f051825d068631376927895e2ea1a7c24/Assignment4Screenshot.png">
 
 Project completed by: Auburn University Student for CPSC 5330 - Mobile Applications Development 1 (Summer 2023)
 Assignment: Introduction
