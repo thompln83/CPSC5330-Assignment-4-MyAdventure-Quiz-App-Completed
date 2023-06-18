@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Hiking map through the countryside and mountains with boots compass and adventure map for active walking lovers lavender lilac green on moody blue.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Hiking map through the countryside and mountains with boots compass and adventure map for active walking lovers lavender lilac green on moody blue@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Hiking map through the countryside and mountains with boots compass and adventure map for active walking lovers lavender lilac green on moody blue@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
